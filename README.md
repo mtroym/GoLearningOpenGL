@@ -26,3 +26,14 @@ $ go get -u github.com/go-gl/gl/v2.1/gl
 Use your ``go-gl``
 ----------
 See tutorials for details.
+
+Content
+---------
+- 0_triangle: Draw a triangle by VAO
+- 1_elementBuffers: Draw a square by EBO
+
+
+
+References
+--------
+https://kylewbanks.com/blog/tutorial-opengl-with-golang-part-1-hello-opengl
