@@ -31,7 +31,7 @@ Content
 ---------
 - 0_triangle: Draw a triangle by VAO
 - 1_elementBuffers: Draw a square by EBO
-
+- 2_cube: UV textures to make cube. UVO usage.
 
 
 References
