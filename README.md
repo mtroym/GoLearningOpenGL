@@ -21,6 +21,7 @@ $ go get -u github.com/go-gl/glfw/v3.2/glfw
 $ go get -u github.com/go-gl/gl/v{3.2,3.3,4.1,4.2,4.3,4.4,4.5,4.6}-{core,compatibility}/gl
 $ go get -u github.com/go-gl/gl/v3.1/gles2 
 $ go get -u github.com/go-gl/gl/v2.1/gl
+$ go get -u github.com/go-gl/mathgl
 ```
 
 Use your ``go-gl``
@@ -29,11 +30,12 @@ See tutorials for details.
 
 Content
 ---------
-- 0_triangle: Draw a triangle by VAO
+- 0_triangle: Draw a triangle by VAO.
 - 1_elementBuffers: Draw a square by EBO
 - 2_cube: UV textures to make cube. UVO usage.
 
 
 References
 --------
-https://kylewbanks.com/blog/tutorial-opengl-with-golang-part-1-hello-opengl
+- https://kylewbanks.com/blog/tutorial-opengl-with-golang-part-1-hello-opengl
+- https://github.com/go-gl/example/tree/master/gl41core-cube
